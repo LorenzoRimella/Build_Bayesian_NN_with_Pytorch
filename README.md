@@ -1,1 +1,3 @@
-# Build_Bayesian_NN_with_Pytorch
+# Build Bayesian neural networks with Pytorch
+
+This notebook shows how to build and train a Bayesian neural network in Pytorch.
